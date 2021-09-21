@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/lencx/learn-puppeteer#readme",
   "dependencies": {
+    "chalk": "^4.1.2",
     "puppeteer": "^10.2.0"
   },
   "devDependencies": {

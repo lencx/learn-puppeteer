@@ -1,0 +1,24 @@
+{
+  "name": "learn-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "author": "lencx <cxin1314@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "node ./scripts/run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lencx/learn-puppeteer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lencx/learn-puppeteer/issues"
+  },
+  "homepage": "https://github.com/lencx/learn-puppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^10.2.0"
+  },
+  "devDependencies": {
+    "fast-glob": "^3.2.7"
+  }
+}
